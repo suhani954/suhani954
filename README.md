@@ -108,10 +108,6 @@
   *June 2025 – Aug 2025*  
   Built a unified AI chat platform integrating 5+ AI models; optimized local context caching for 30% faster responses.
 
-- **Software Engineering Intern — Previous Project**  
-  *Jan 2025 – Apr 2025*  
-  Worked on backend APIs, UI enhancements, and performance tuning.
-
 ---
 
 ### 🎓 Education
