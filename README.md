@@ -17,8 +17,12 @@
 </p> -->
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9BE7FF,50:78C3FB,100:4A90E2&height=220&section=header&text=Suhani%20Singh&fontSize=36&animation=fadeIn" width="100%" />
+</p> -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D47A1,100:00E5FF&height=160&section=header&text=Suhani%20Singh&fontSize=40&fontColor=FFFFFF&animation=fadeIn" width="100%" />
 </p>
 
 
@@ -163,7 +167,10 @@ CGPA: **8.91**
 </p> -->
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:78C3FB,50:9BE7FF,100:C4F1FF&height=120&section=footer&animation=fadeIn" width="100%" />
-</p>
+</p> -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:0D47A1&height=120&section=footer" width="100%" />
+</p>
