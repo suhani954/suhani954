@@ -32,31 +32,8 @@
 
 
 
-    <!-- capsule background -->
-    <rect x="10" y="10" rx="18" ry="18" width="980" height="120" fill="url(#g1)" filter="url(#softShadow)"/>
+    
 
-    <!-- subtle wave mask -->
-    <path id="wave" fill="#ffffff" opacity="0.06">
-      <animate attributeName="d" dur="8s" repeatCount="indefinite"
-        values="
-          M0 80 C150 20 350 140 500 80 C650 20 850 140 1000 80 L1000 140 L0 140 Z;
-          M0 90 C150 140 350 20 500 90 C650 160 850 20 1000 90 L1000 140 L0 140 Z;
-          M0 80 C150 40 350 120 500 80 C650 40 850 120 1000 80 L1000 140 L0 140 Z;
-          M0 80 C150 20 350 140 500 80 C650 20 850 140 1000 80 L1000 140 L0 140 Z
-        "/>
-    </path>
-
-    <!-- Title text -->
-    <g font-family="Inter, Arial, Helvetica, sans-serif" text-anchor="start">
-      <text x="42" y="60" font-size="28" font-weight="700" fill="#fff">Suhani Singh</text>
-      <text x="42" y="92" font-size="15" font-weight="500" fill="#f0f7ff" opacity="0.95">
-        Final-year CSE • Software Dev • Applied AI • Frontend & Full-stack
-      </text>
-    </g>
-  </svg>
-</div>
-
-<br/>
 
 <!-- 2) Animated Typing Title (readme-typing-svg) -->
 <div align="center">
