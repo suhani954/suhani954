@@ -7,8 +7,13 @@
 
 
 <!-- Pleasant Gradient Header Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8A2FF,50:A0D9FF,100:9BF6FF&height=220&section=header&text=Suhani%20Singh&fontSize=36&fontAlign=50&fontAlignY=35&animation=fadeIn" width="100%" />
+</p> -->
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D9B3FF,50:EFBFFF,100:FFCCE5&height=220&section=header&text=Suhani%20Singh&fontSize=36&animation=fadeIn" width="100%" />
 </p>
 
 
@@ -143,7 +148,11 @@ CGPA: **8.91**
 
 
 <!-- Pleasant Gradient Footer Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9AA2,50:FFB7B2,100:FFDAC1&height=120&section=footer&animation=fadeIn" width="100%" />
+</p> -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EFBFFF,50:FFCCE5,100:FFE6F2&height=120&section=footer&animation=fadeIn" width="100%" />
 </p>
 
