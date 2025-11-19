@@ -12,9 +12,15 @@
 </p> -->
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D9B3FF,50:EFBFFF,100:FFCCE5&height=220&section=header&text=Suhani%20Singh&fontSize=36&animation=fadeIn" width="100%" />
+</p> -->
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9BE7FF,50:78C3FB,100:4A90E2&height=220&section=header&text=Suhani%20Singh&fontSize=36&animation=fadeIn" width="100%" />
 </p>
+
 
 
 <!-- 2) Animated Typing Title (readme-typing-svg) -->
@@ -152,7 +158,12 @@ CGPA: **8.91**
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9AA2,50:FFB7B2,100:FFDAC1&height=120&section=footer&animation=fadeIn" width="100%" />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EFBFFF,50:FFCCE5,100:FFE6F2&height=120&section=footer&animation=fadeIn" width="100%" />
+</p> -->
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:78C3FB,50:9BE7FF,100:C4F1FF&height=120&section=footer&animation=fadeIn" width="100%" />
 </p>
 
