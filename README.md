@@ -3,7 +3,7 @@
      ========================= -->
 
 <!-- 1) Gradient Waving Header Banner (inline SVG animated capsule) -->
-<div align="center">
+<!-- <div align="center">
   <svg viewBox="0 0 1000 140" width="100%" height="140" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="border-radius:12px; overflow:visible">
     <defs>
       <linearGradient id="g1" x1="0%" x2="100%" y1="0%" y2="0%">
@@ -19,7 +19,18 @@
       <filter id="softShadow" x="-50%" y="-50%" width="200%" height="200%">
         <feDropShadow dx="0" dy="6" stdDeviation="12" flood-color="#000" flood-opacity="0.25"/>
       </filter>
-    </defs>
+    </defs> -->
+
+
+
+
+<!-- Modern gradient banner with subtle animation -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C5FF&height=220&section=header&text=Suhani%20Singh&fontSize=36&fontAlign=50&fontAlignY=35&animation=fadeIn" width="100%" />
+</p>
+
+
+
 
     <!-- capsule background -->
     <rect x="10" y="10" rx="18" ry="18" width="980" height="120" fill="url(#g1)" filter="url(#softShadow)"/>
@@ -173,7 +184,7 @@ CGPA: **8.91**
 ---
 
 <!-- 12) Animated Footer Banner -->
-<div align="center" style="margin-top:18px;">
+<!-- <div align="center" style="margin-top:18px;">
   <svg viewBox="0 0 1000 80" width="100%" height="80" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="border-radius:12px;">
     <defs>
       <linearGradient id="g2" x1="0%" x2="100%">
@@ -186,7 +197,16 @@ CGPA: **8.91**
                    values="#ffc371;#7f00ff;#ff5f6d;#ffc371" />
         </stop>
       </linearGradient>
-    </defs>
+    </defs> -->
+
+
+
+<!-- Animated Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=120&section=footer&animation=fadeIn" width="100%" />
+</p>
+
+
 
     <rect x="6" y="6" width="988" height="68" rx="14" fill="url(#g2)" />
     <text x="28" y="44" font-family="Inter, Arial" font-size="16" fill="#fff" font-weight="600">
