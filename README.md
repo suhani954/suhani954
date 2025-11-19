@@ -1,38 +1,15 @@
 <!-- =========================
      SUHANI SINGH - README
      ========================= -->
-
-<!-- 1) Gradient Waving Header Banner (inline SVG animated capsule) -->
-<!-- <div align="center">
-  <svg viewBox="0 0 1000 140" width="100%" height="140" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="border-radius:12px; overflow:visible">
-    <defs>
-      <linearGradient id="g1" x1="0%" x2="100%" y1="0%" y2="0%">
-        <stop offset="0%" stop-color="#7f00ff">
-          <animate attributeName="stop-color" dur="6s" repeatCount="indefinite"
-                   values="#7f00ff;#00d2ff;#ff5f6d;#7f00ff"/>
-        </stop>
-        <stop offset="100%" stop-color="#00d2ff">
-          <animate attributeName="stop-color" dur="6s" repeatCount="indefinite"
-                   values="#00d2ff;#ff5f6d;#7f00ff;#00d2ff"/>
-        </stop>
-      </linearGradient>
-      <filter id="softShadow" x="-50%" y="-50%" width="200%" height="200%">
-        <feDropShadow dx="0" dy="6" stdDeviation="12" flood-color="#000" flood-opacity="0.25"/>
-      </filter>
-    </defs> -->
-
-
-
-
-<!-- Modern gradient banner with subtle animation -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C5FF&height=220&section=header&text=Suhani%20Singh&fontSize=36&fontAlign=50&fontAlignY=35&animation=fadeIn" width="100%" />
+</p> -->
+
+
+<!-- Pleasant Gradient Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8A2FF,50:A0D9FF,100:9BF6FF&height=220&section=header&text=Suhani%20Singh&fontSize=36&fontAlign=50&fontAlignY=35&animation=fadeIn" width="100%" />
 </p>
-
-
-
-
-    
 
 
 <!-- 2) Animated Typing Title (readme-typing-svg) -->
@@ -158,39 +135,15 @@ CGPA: **8.91**
 
 </details>
 
----
-
-<!-- 12) Animated Footer Banner -->
-<!-- <div align="center" style="margin-top:18px;">
-  <svg viewBox="0 0 1000 80" width="100%" height="80" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="border-radius:12px;">
-    <defs>
-      <linearGradient id="g2" x1="0%" x2="100%">
-        <stop offset="0%" stop-color="#ff5f6d">
-          <animate attributeName="stop-color" dur="6s" repeatCount="indefinite"
-                   values="#ff5f6d;#ffc371;#7f00ff;#ff5f6d" />
-        </stop>
-        <stop offset="100%" stop-color="#ffc371">
-          <animate attributeName="stop-color" dur="6s" repeatCount="indefinite"
-                   values="#ffc371;#7f00ff;#ff5f6d;#ffc371" />
-        </stop>
-      </linearGradient>
-    </defs> -->
-
-
 
 <!-- Animated Footer Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=120&section=footer&animation=fadeIn" width="100%" />
+</p> -->
+
+
+<!-- Pleasant Gradient Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9AA2,50:FFB7B2,100:FFDAC1&height=120&section=footer&animation=fadeIn" width="100%" />
 </p>
-
-
-
-    <rect x="6" y="6" width="988" height="68" rx="14" fill="url(#g2)" />
-    <text x="28" y="44" font-family="Inter, Arial" font-size="16" fill="#fff" font-weight="600">
-      Thanks for visiting — let's build something awesome 🚀
-    </text>
-  </svg>
-</div>
-
----
 
