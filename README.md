@@ -59,7 +59,7 @@
 <td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="22" height="22" /><br> MongoDB</td>
 <td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22" height="22" /><br> HTML5</td>
 <td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="22" height="22" /><br> CSS3</td>
-<td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;"><img src="./.github/tailwind.png" width="29" height="29" alt="Tailwind" /> Tailwind</td>
+<td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;"><img src="./.github/tailwind.png" width="29" height="29" alt="Tailwind" /> <br> Tailwind</td>
 <td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="22" height="22" /><br> Angular</td>
 </tr>
 
@@ -69,7 +69,7 @@
 <td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="22" height="22" /><br> FastAPI</td>
 <td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;"><img src="./.github/restAPI.png" width="29" height="29" alt="REST API" /><br> REST&nbsp;APIs</td>
 <td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22" height="22" /><br> Git</td>
-<td align="center" style="width:10%; background: rgba(255,255,255,0.22); border: 1px solid rgba(255,255,255,0.35); border-radius:14px; padding:8px;"><img src="https://cdn.simpleicons.org/github/ffffff" width="22" height="22" /> GitHub</td>
+<td align="center" style="width:10%; background: rgba(255,255,255,0.22); border: 1px solid rgba(255,255,255,0.35); border-radius:14px; padding:8px;"><img src="https://cdn.simpleicons.org/github/ffffff" width="22" height="22" /> <br> GitHub</td>
 <td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="22" height="22" /><br> VS&nbsp;Code</td>
 <td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;"><img src="https://cdn.simpleicons.org/canva/00C4CC" width="22" height="22" /><br> Canva</td>
 </tr>
