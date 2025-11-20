@@ -7,7 +7,6 @@
        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&width=620&height=50&color=00ffcc&vCenter=true&lines=AI+Enthusiast;Software+Developer;Web+Developer" />
 </div>
 
----
 
 <div align="center">
   <table cellpadding="10">
@@ -37,14 +36,12 @@
   </table>
 </div>
 
----
 
 ### About Me
 - Final-year Computer Science student (HMR Institute) — focused on Software Development, Frontend & Applied AI.  
 - Interned at **Deutsche Telekom Digital Labs (DTDL)** — built a unified AI chat platform (Angular + FastAPI).  
 - I love building clean UX, scalable backends, and creative visual frontends.
 
----
 
 # 🛠 Skills
 
@@ -76,14 +73,13 @@
 
 </table>
 </div>
----
+
 
 ### 💼 Experience
 **Software Development Intern — Deutsche Telekom Digital Labs (DTDL)**  
 *June 2025 – Aug 2025*  
 Built a unified AI chat platform integrating 5+ AI models; optimized local context caching for 30% faster responses.
 
----
 
 ### 🎓 Education
 **B.Tech in Computer Science & Engineering** — HMR Institute of Technology and Management (GGSIPU) — *2022–2026*  
@@ -96,7 +92,6 @@ CGPA: **8.91**
 - **Photography Portfolio Website** — HTML · CSS · JavaScript  
 - **Image Background Remover (API Tool)** — Frontend + API integration  
 
----
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suhani954&show_icons=true&theme=radical&hide_border=true" height="160"/>
@@ -104,12 +99,10 @@ CGPA: **8.91**
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhani954&layout=compact&theme=radical&hide_border=true" height="160"/>
 </div>
 
----
 
 ### 📈 3D Contribution Graph
 [![3D Contributions](https://activity-graph.herokuapp.com/graph?username=suhani954&theme=night-rainbow)](https://github.com/suhani954)
 
----
 
 <details>
   <summary><strong>🔎 Extras — What I'm focusing on now</strong></summary>
