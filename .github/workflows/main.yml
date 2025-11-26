@@ -1,28 +1,31 @@
-name: Update 3D Contribution Graph
+name: Generate 3D Contribution Graph
 
 on:
-  schedule:
-    - cron: "0 0 * * *"   # Runs daily at midnight
-  workflow_dispatch:       # Allows manual run
+  schedule: # Runs once a day
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Allows manual run
+  push:
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    name: Generate 3D Contribution Graph
     steps:
-    - name: Check out the repository
-      uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    - name: Generate GitHub Contribution Graph
-      uses: yoshi389111/github-profile-3d-contrib@0.6.1
-      with:
-        username: suhani954   # <<< change to your username
-        output: ./profile-3d-contrib
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: suhani954
 
-    - name: Commit & Push
-      run: |
-        git config --local user.email "actions@github.com"
-        git config --local user.name "GitHub Action"
-        git add -A
-        git commit -m "Updated 3D profile contribution graph" || exit 0
-        git push
+      - name: Commit & Push
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add -A
+          git commit -m "Generate 3D Contribution Graph"
+          git push
