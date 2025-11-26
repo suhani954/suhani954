@@ -101,7 +101,7 @@ CGPA: **8.91**
 
 
 ### 📈 3D Contribution Graph
-[![3D Contributions](https://activity-graph.herokuapp.com/graph?username=suhani954&theme=night-rainbow)](https://github.com/suhani954)
+![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
 <details>
